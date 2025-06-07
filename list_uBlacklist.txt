@@ -24,6 +24,7 @@
 *://*.cgdream.ai/*
 *://*.tryleap.ai/*
 *://*.magichour.ai/*
+*://*.araby.ai/*
 *://*.perplexity.ai/*
 *://*.julius.ai/*
 *://*.animegenius.ai/*
@@ -367,6 +368,7 @@
 *://*.toolbaz.com/*
 *://*.chatbot.com/*
 *://*.hayo.com/*
+*://*.gulfpicasso.com/*
 *://*.yodayo.com/*
 *://*.stable-diffusion-art.com/*
 *://*.prompthero.com/*
@@ -1011,6 +1013,7 @@
 *://*.play.google.com/store/apps/details?id=com.animeart.animeavatar/*
 *://*.play.google.com/store/apps/details?id=com.aesoft.app.lockscreen.patternlocker/*
 *://*.play.google.com/store/apps/details?id=anime.generator.aigc/*
+*://*.play.google.com/store/apps/details?id=com.araby.ai/*
 *://*.play.google.com/store/apps/details?id=com.anime.ai.art.generator.text.to.image.generator.artwork/*
 *://*.play.google.com/store/apps/details?id=com.createaiart.aigenerator.draw.photo/*
 *://*.play.google.com/store/apps/details?id=com.daydreamers.reiai/*
@@ -1030,6 +1033,7 @@
 
 # Apple AI applications
 *://*.apple.com/us/app/ai-art-generator-hitpaw/id6444304300/*
+*://*.apple.com/us/app/araby-ai-ذكاء-اصطناعي-عربي/id6447341656/*
 *://*.apple.com/us/app/pixai-ai-anime-art-generator/id6474528911/*
 
 
@@ -1214,6 +1218,7 @@
 *://*.twitter.com/SebastianKamph/*
 *://*.x.com/slickcityceo/*
 *://*.twitter.com/slickcityceo/*
+*://*.x.com/accelthreatr/*
 *://*.twitter.com/accelthreatr/*
 *://*.x.com/OlivioSarikas/*
 *://*.twitter.com/OlivioSarikas/*
@@ -1320,6 +1325,7 @@
 *://*.instagram.com/aianimeworld/*
 *://*.instagram.com/picso_ai/*
 *://*.instagram.com/genshin.aiarts/*
+*://*.instagram.com/artrealm.ai/*
 *://*.instagram.com/raymur.art/*
 *://*.instagram.com/ai.sakuraaa/*
 *://*.instagram.com/ai.create.labo/*
