@@ -24,6 +24,7 @@
 *://*.cgdream.ai/*
 *://*.tryleap.ai/*
 *://*.magichour.ai/*
+*://*.araby.ai/*
 *://*.perplexity.ai/*
 *://*.julius.ai/*
 *://*.animegenius.ai/*
@@ -361,6 +362,7 @@
 
 # Sites that have .com domain extension
 *://*.steelefortress.com/*
+*://*.gulfpicasso.com/*
 *://*.cybersecguide.com/*
 *://*.appypie.com/*
 *://*.aicreate.com/*
